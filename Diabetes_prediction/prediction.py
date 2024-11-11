@@ -11,7 +11,7 @@ from sklearn.model_selection import GridSearchCV
 
 
 
-data = pd.read_csv('/Diabetes_prediction/diabetes.csv')
+data = pd.read_csv('diabetes.csv')
 
 # start = data.describe()
 
